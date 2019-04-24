@@ -1,5 +1,5 @@
 # DHT_Chord
-#1. Overview
+## 1. Overview
 The goal of this project is to implement a Distributed Hash Table (DHT) based Book Finder Application. We have used Thrift to implement RPC and have used Java as the programming language. We have used the Chord protocol for implementing the DHT. 
 
 ## 2. Components Implemented
