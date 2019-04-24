@@ -1,0 +1,22 @@
+service ClientNodeInterface {
+            bool ping(),
+            string getGenre(1: string title, 2: string traversal),
+            string setGenre(1: string title, 2: string genre),
+            string findSuccessor(1: i32 id),
+            string getSuccessor(),
+            i32 getSuccessorId(),
+            void setSuccessor(1: string ipPort),
+            void setSuccessorId(2: i32 id),
+            i32 getId(),
+            string getIpPort(),
+            string findPredecessor(1: i32 id),
+            void setPredecessor(1: string ipPort),
+            string getPredecessor(),
+            void update_finger_table(1: string s, 2: i32 i),
+            string closestPrecedingFinger(1: i32 id),
+            void printDetails(),
+            string getNodeList(),
+            void updateList(1: i32 id, 2: string ipPort),
+            string setInNode(1: string title, 2: string genre, 3: i32 h),
+            string getInNode(1: string title, 2: string traversal)
+}

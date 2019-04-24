@@ -1,0 +1,42 @@
+All's Well That Ends Well:Comedies
+As You Like It:Comedies
+The Comedy of Errors:Comedies
+Love's Labor's Lost:Comedies
+Measure for Measure:Comedies
+The Merchant of Venice:Comedies
+The Merry Wives of Windsor:Comedies
+A Midsummer Night's Dream:Comedies
+Much Ado About Nothing:Comedies
+The Taming of the Shrew:Comedies
+Twelfth Night:Comedies
+The Two Gentlemen of Verona:Comedies
+The Two Noble Kinsmen:Comedies
+Henry IV, Part 1:Histories
+Henry IV, Part 2:Histories
+Henry V:Histories
+Henry VI, Part 1:Histories
+Henry VI, Part 2:Histories
+Henry VI, Part 3:Histories
+Henry VIII:Histories
+King John:Histories
+Richard II:Histories
+Richard III:Histories
+Antony and Cleopatra:Tragedies
+Coriolanus:Tragedies
+Hamlet:Tragedies
+Julius Caesar:Tragedies
+King Lear:Tragedies
+Macbeth:Tragedies
+Othello:Tragedies
+Romeo and Juliet:Tragedies
+Timon of Athens:Tragedies
+Titus Andronicus:Tragedies
+Troilus and Cressida:Tragedies
+Cymbeline:Romances
+Pericles:Romances
+The Tempest:Romances
+The Winter's Tale:Romances
+Lucrece:Poems
+The Phoenix and Turtle:Poems
+Sonnets:Poems
+Venus and Adonis:Poems
